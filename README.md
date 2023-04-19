@@ -136,6 +136,10 @@ Coloque seu bot online
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-w-o/)
 
+[Documentação OpenAI](https://platform.openai.com/docs/introduction)
+
+[Documentação Discord](https://discord.com/developers/docs/intro)
+
 ## Feedback
 
 Se você tiver algum feedback, por favor nos deixe saber por meio de matheuswill6663@gmail.com
